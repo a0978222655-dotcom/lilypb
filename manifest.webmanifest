@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Lily Prep｜皮拉提斯備課室",
+  "short_name": "Lily Prep",
+  "description": "專為 iPhone 與 iPad 設計的皮拉提斯備課室。",
+  "lang": "zh-Hant",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8f8f4",
+  "theme_color": "#647b68",
+  "icons": [
+    { "src": "./assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
